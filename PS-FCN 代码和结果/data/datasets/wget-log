@@ -1,0 +1,99 @@
+--2022-11-19 21:50:22--  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在解析主机 www.dropbox.com (www.dropbox.com)... 185.60.219.41, 2001::1f0d:5322
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 21:52:05--  (尝试次数： 2)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 21:54:37--  (尝试次数： 3)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 21:57:10--  (尝试次数： 4)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 21:59:44--  (尝试次数： 5)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:02:19--  (尝试次数： 6)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:04:55--  (尝试次数： 7)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:07:32--  (尝试次数： 8)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:10:10--  (尝试次数： 9)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:12:49--  (尝试次数：10)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:15:30--  (尝试次数：11)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:18:10--  (尝试次数：12)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:20:50--  (尝试次数：13)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:23:30--  (尝试次数：14)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:28:28--  (尝试次数：15)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:52:32--  (尝试次数：16)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:55:12--  (尝试次数：17)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 22:57:52--  (尝试次数：18)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 23:00:32--  (尝试次数：19)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Operation timed out。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：Operation timed out。
+重试中。
+
+--2022-11-19 23:07:30--  (尝试次数：20)  https://www.dropbox.com/s/hdnbh526tyvv68i/DiLiGenT.zip?dl=0
+正在连接 www.dropbox.com (www.dropbox.com)|185.60.219.41|:443... 失败：Network is unreachable。
+正在连接 www.dropbox.com (www.dropbox.com)|2001::1f0d:5322|:443... 失败：No route to host。
